@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @connorpmullins
+- 👀 I’m interested in building easily maintainable React Native apps
+- 🌱 I’m currently learning TypeScript and GraphQL
+- 💞️ I’m looking to collaborate on ethical open source projects, or anything else that sounds fun!
+- 📫 How to reach me:
+  - (623) 208-8664
+  - connorpmullins@gmail.com
