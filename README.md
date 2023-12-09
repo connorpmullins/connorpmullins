@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @connorpmullins
 - 👀 I’m interested in building easily maintainable React Native apps
-- 🌱 I’m currently learning TypeScript and GraphQL
-- 💞️ I’m looking to collaborate on ethical open source projects, or anything else that sounds fun!
+- 🌱 I’m interested in voting and modern solutions to civic involvement
+- 💝 I'm interested in Ethical Capitalism and how we can shape neo-liberal forces for a better future
+- 💞️ I’m open to collaborate on ethical open source projects!
 - 📫 How to reach me:
   - (623) 208-8664
   - connorpmullins@gmail.com
